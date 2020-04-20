@@ -1,0 +1,11 @@
+**/target/
+**/.idea/
+/hadoop-imooc/projectData/
+/hadoop-imooc/classes/*
+*.iml
+**.log
+**/metastore_db/
+build.sbt
+derby.log
+**/project/
+**/spark-warehouse
